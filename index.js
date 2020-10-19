@@ -91,25 +91,25 @@ For question about using this application, please contact me at one of the links
 
 function licenseBadge(answers){
     if(answers.license === 'Apache License 2.0'){
-        licBadge = '![License](https://img.shields.io/badge/LICENSE-Apache%202.0-brightgreen)'
+        licBadge = '![License](https://img.shields.io/badge/LICENSE-Apache%202.0-brightgreen.svg)'
     } else if(answers.license === 'BSD 3-Clause License'){
-        licBadge = '![License](https://img.shields.io/badge/LICENSE-BSD%203--Clause-green)'
+        licBadge = '![License](https://img.shields.io/badge/LICENSE-BSD%203--Clause-green.svg))'
     } else if (answers.license === 'BSD 2-Clause License'){
-        licBadge = '![License](https://img.shields.io/badge/LICENSE-BSD%202--Clause-yellowgreen)'
+        licBadge = '![License](https://img.shields.io/badge/LICENSE-BSD%202--Clause-yellowgreen.svg))'
     } else if (answers.license === 'GNU General Public License v3.0'){
-        licBadge = '![License](https://img.shields.io/badge/LICENSE-GPLv3.0-yellow)'
+        licBadge = '![License](https://img.shields.io/badge/LICENSE-GPLv3.0-yellow.svg))'
     } else if (answers.license === 'GNU Library (LGPL)'){
-        licBadge = '![License](https://img.shields.io/badge/LICENSE-LPGL%20v3.0-orange)'
+        licBadge = '![License](https://img.shields.io/badge/LICENSE-LPGL%20v3.0-orange.svg))'
     } else if (answers.license === 'MIT License'){
-        licBadge = '![License](https://img.shields.io/badge/LICENSE-MIT-red)'
+        licBadge = '![License](https://img.shields.io/badge/LICENSE-MIT-red.svg))'
     } else if (answers.license === 'Mozilla Public License 2.0'){
-        licBadge = '![License](https://img.shields.io/badge/LICENSE-MPL%202.0-lightgrey)'
+        licBadge = '![License](https://img.shields.io/badge/LICENSE-MPL%202.0-lightgrey.svg))'
     } else if (answers.license === 'Common Development and Distribution License'){
-        licBadge = '![License](https://img.shields.io/badge/LICENSE-CDDL%201.0-blue)'
+        licBadge = '![License](https://img.shields.io/badge/LICENSE-CDDL%201.0-blue.svg))'
     } else if (answers.license === 'Eclipse Public License'){
-        licBadge = '![License](https://img.shields.io/badge/LICENSE-EPL%201.0-ff69b4)'
+        licBadge = '![License](https://img.shields.io/badge/LICENSE-EPL%201.0-ff69b4.svg))'
     } else if (answers.license === 'Creative Commons License'){
-        licBadge = '![License](https://img.shields.io/badge/LICENSE-CCL-black)'
+        licBadge = '![License](https://img.shields.io/badge/LICENSE-CCL-black.svg))'
     }
 }
 
