@@ -1,0 +1,18 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A README.md Generator that can quickly create a professional README for a new project based on a user's input using prompts generated in node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyfraley/readme-generator.git"
+  },
+  "author": "Danny Fraley",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
