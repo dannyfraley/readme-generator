@@ -1,7 +1,7 @@
 # readme-generator
 
 ## Description
-A README.md Generator that can quickly create a professional README for a new project based on a user's input using prompts generated in node.js.
+A `README.md` Generator that can quickly create a professional README for a new project based on a user's input using prompts generated in node.js.
 
 ![License](https://img.shields.io/badge/LICENSE-MIT-red.svg)
 
@@ -24,9 +24,9 @@ A README.md Generator that can quickly create a professional README for a new pr
 ## Installation
 1. Go to https://github.com/dannyfraley/readme-generator and download the zip file to your local network.
 2. Unzip the file.
-3. Using your terminal command line program, navigate to the unzipped folder called "readme-generator-main".
-4. Type the command "npm i" to install the dependencies to your local folder.
-5. Type the command "node index.js" to begin using the application. The user prompts will now begin to appear in the terminal.
+3. Using your terminal command line program, navigate to the unzipped folder called `"readme-generator-main"`.
+4. Type the command `npm i` to install the dependencies to your local folder.
+5. Type the command `node index.js` to begin using the application. The user prompts will now begin to appear in the terminal.
 
 ## Usage
 After installing the zip file and opening in your terminal, the user will be guided through a series of prompts, asking the user to enter the following information --
@@ -40,16 +40,16 @@ After installing the zip file and opening in your terminal, the user will be gui
 **Please enter details regarding how to use this application:**
 
 **Please choose which license to use for your project:**
-* [Apache License 2.0]
-* [BSD 3-Clause License]
-* [BSD 2-Clause License]
-* [GNU General Public License v3.0]
-* [GNU Library (LGPL)]
-* [MIT License]
-* [Mozilla Public License 2.0]
-* [Common Development and Distribution License]
-* [Eclipse Public License]
-* [Creative Commons License]
+* Apache License 2.0
+* BSD 3-Clause License
+* BSD 2-Clause License
+* GNU General Public License v3.0
+* GNU Library (LGPL)
+* MIT License
+* Mozilla Public License 2.0
+* Common Development and Distribution License
+* Eclipse Public License
+* Creative Commons License
 
 **Please enter contribution guidelines for this project:**
 
@@ -59,7 +59,7 @@ After installing the zip file and opening in your terminal, the user will be gui
 
 **Please enter your email address:**
 
-Upon completion of these prompts, the user will receive confirmation of a successful README file creation with the message "Congratulations, you have successfully created a new README file. I sure hope it's awesome looking!"
+Upon completion of these prompts, the user will receive confirmation of a successful README file creation with the message *"Congratulations, you have successfully created a new README file. I sure hope it's awesome looking!"*
 
 A new `README.md` file will then appear in their folder, containing all of the information the user has just entered.
 
