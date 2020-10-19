@@ -61,6 +61,6 @@ This project is currently not accepting community contributions.
 No additional libraries installed for testing. All testing has been performed manually.
 
 ## Questions
-Have questions on this application? Contact me via:<br>
-Email: dannyfraley@gmail.com <br>
-My GitHub Profile: https://github.com/dannyfraley <br> 
+For question about using this application, please contact me at one of the links below.
+Email: dannyfraley@gmail.com 
+My GitHub Profile: https://github.com/dannyfraley
