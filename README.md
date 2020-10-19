@@ -5,7 +5,6 @@ A README.md Generator that can quickly create a professional README for a new pr
 
 ![License](https://img.shields.io/badge/LICENSE-MIT-red.svg)
 
-<hr>
 
 ## Table of Contents 
 
