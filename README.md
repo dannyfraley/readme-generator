@@ -31,15 +31,15 @@ A README.md Generator that can quickly create a professional README for a new pr
 ## Usage
 After installing the zip file and opening in your terminal, the user will be guided through a series of prompts, asking the user to enter the following information --
 
-Please enter the title of your project:
+**Please enter the title of your project:**
 
-Please enter a description of your project:
+**Please enter a description of your project:**
 
-Please enter detailed installation instructions for your project:
+**Please enter detailed installation instructions for your project:**
 
-Please enter details regarding how to use this application:
+**Please enter details regarding how to use this application:**
 
-Please choose which license to use for your project:
+**Please choose which license to use for your project:**
 * [Apache License 2.0]
 * [BSD 3-Clause License]
 * [BSD 2-Clause License]
@@ -51,18 +51,17 @@ Please choose which license to use for your project:
 * [Eclipse Public License]
 * [Creative Commons License]
 
-Please enter contribution guidelines for this project:
+**Please enter contribution guidelines for this project:**
 
-Please enter instructions about testing your project:
+**Please enter instructions about testing your project:**
 
-Please enter your Github username:
+**Please enter your Github username:**
 
-Please enter your email address:
-
+**Please enter your email address:**
 
 Upon completion of these prompts, the user will receive confirmation of a successful README file creation with the message "Congratulations, you have successfully created a new README file. I sure hope it's awesome looking!"
 
-A new README.md file will then appear in their folder, containing all of the information the user has just entered.
+A new `README.md` file will then appear in their folder, containing all of the information the user has just entered.
 
 ## License
 MIT License
