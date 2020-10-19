@@ -40,7 +40,17 @@ Please enter detailed installation instructions for your project:
 Please enter details regarding how to use this application:
 
 Please choose which license to use for your project:
-["Apache License 2.0", "BSD 3-Clause License", "BSD 2-Clause License", "GNU General Public License v3.0)", "GNU Library (LGPL)", "MIT License", "Mozilla Public License 2.0", "Common Development and Distribution License", "Eclipse Public License", "Creative Commons License"]
+* [Apache License 2.0]
+* [BSD 3-Clause License]
+* [BSD 2-Clause License]
+* [GNU General Public License v3.0]
+* [GNU Library (LGPL)]
+* [MIT License]
+* [Mozilla Public License 2.0]
+* [Common Development and Distribution License]
+* [Eclipse Public License]
+* [Creative Commons License]
+
 Please enter contribution guidelines for this project:
 
 Please enter instructions about testing your project:
