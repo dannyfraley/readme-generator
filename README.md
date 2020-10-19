@@ -62,5 +62,7 @@ No additional libraries installed for testing. All testing has been performed ma
 
 ## Questions
 For question about using this application, please contact me at one of the links below.
+
 Email: dannyfraley@gmail.com 
+
 My GitHub Profile: https://github.com/dannyfraley
