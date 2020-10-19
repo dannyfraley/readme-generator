@@ -20,10 +20,13 @@ A README.md Generator that can quickly create a professional README for a new pr
 
 * [Questions](#questions)
 
-<hr>
 
 ## Installation
-Download from GitHub repository https://github.com/dannyfraley/readme-generator and unzip to a local directory. To execute, open your preferred command line console, navigate to the directory containing the index.js file and  type "node index.js" NOTE: This will require the installation of node.js to provide the runtime environment.
+1. Go to https://github.com/dannyfraley/readme-generator and download the zip file to your local network.
+2. Unzip the file.
+3. Using your terminal command line program, navigate to the unzipped folder called "readme-generator-main".
+4. Type the command "npm i" to install the dependencies to your local folder.
+5. Type the command "node index.js" to begin using the application. The user prompts will now begin to appear in the terminal.
 
 ## Usage
 This application can be used for any application type. Simply run the program via the command line and follow the prompts. Be as descriptive as possible. Make sure to provide information for each question in order to fully populate the final .md file. The README file for this application was created using this application. README.factory uses inquirer.js and util libraries.
@@ -51,7 +54,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Contributions
+## Contributing
 This project is currently not accepting community contributions.
 
 ## Testing
