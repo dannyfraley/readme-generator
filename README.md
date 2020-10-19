@@ -1,10 +1,9 @@
 # readme-generator
+
+## Description
 A README.md Generator that can quickly create a professional README for a new project based on a user's input using prompts generated in node.js.
 
 ![License](https://img.shields.io/badge/LICENSE-MIT-red.svg)
-
-## Description
-This is a command line interface application that takes in information about an application and generates a professional README.md file.
 
 <hr>
 
