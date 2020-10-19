@@ -28,6 +28,10 @@ A `README.md` Generator that can quickly create a professional README for a new 
 4. Type the command `npm i` to install the dependencies to your local folder.
 5. Type the command `node index.js` to begin using the application. The user prompts will now begin to appear in the terminal.
 
+![READMEscreenshot1](./assets/READMEscreenshot1.png)
+
+![READMEscreenshot2](./assets/READMEscreenshot2.png)
+
 ## Usage
 After installing the zip file and opening in your terminal, the user will be guided through a series of prompts, asking the user to enter the following information --
 
@@ -62,6 +66,8 @@ After installing the zip file and opening in your terminal, the user will be gui
 Upon completion of these prompts, the user will receive confirmation of a successful README file creation with the message *"Congratulations, you have successfully created a new README file. I sure hope it's awesome looking!"*
 
 A new `README.md` file will then appear in their folder, containing all of the information the user has just entered.
+
+![READMEscreenshot3](./assets/READMEscreenshot3.png)
 
 ## License
 MIT License
