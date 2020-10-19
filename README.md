@@ -29,7 +29,20 @@ A README.md Generator that can quickly create a professional README for a new pr
 5. Type the command "node index.js" to begin using the application. The user prompts will now begin to appear in the terminal.
 
 ## Usage
-This application can be used for any application type. Simply run the program via the command line and follow the prompts. Be as descriptive as possible. Make sure to provide information for each question in order to fully populate the final .md file. The README file for this application was created using this application. README.factory uses inquirer.js and util libraries.
+After installing the zip file and opening in your terminal, the user will be guided through a series of prompts, asking the user to enter the following information --
+Please enter the title of your project:
+Please enter a description of your project:
+Please enter detailed installation instructions for your project:
+Please enter details regarding how to use this application:
+Please choose which license to use for your project: ["Apache License 2.0", "BSD 3-Clause License", "BSD 2-Clause License", "GNU General Public License v3.0)", "GNU Library (LGPL)", "MIT License", "Mozilla Public License 2.0", "Common Development and Distribution License", "Eclipse Public License", "Creative Commons License"]
+Please enter contribution guidelines for this project:
+Please enter instructions about testing your project:
+Please enter your Github username:
+Please enter your email address:
+
+Upon completion of these prompts, the user will receive confirmation of a successful README file creation with the message "Congratulations, you have successfully created a new README file. I sure hope it's awesome looking!"
+
+A new README.md file will then appear in their folder, containing all of the information the user has just entered.
 
 ## License
 MIT License
@@ -55,10 +68,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contributing
-This project is currently not accepting community contributions.
+Danny Fraley is currently the sole contributor to this project. If you are interested in contributing, feel free to do so in another branch.
 
 ## Testing
-No additional libraries installed for testing. All testing has been performed manually.
+Testing performed in VS Code, manually by Danny Fraley.
 
 ## Questions
 For question about using this application, please contact me at one of the links below.
