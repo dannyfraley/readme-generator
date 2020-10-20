@@ -3,11 +3,9 @@ const fs = require("fs");
 const util = require("util");
 var licBadge;
 
-// array of questions for user
 const writeFileAsync = util.promisify(fs.writeFile);
 
-
-
+// array of questions for user
 function promptUser(){
     return inquirer.prompt([
         {
@@ -60,6 +58,7 @@ function promptUser(){
     ]);
 };
 
+//Function that inputs the user's responses to the prompts to a README template
 function generateFile(answers){
     return `# ${answers.title}
 ${answers.description}
@@ -77,7 +76,7 @@ ${answers.installation}
 ## Usage
 ${answers.usage}
 ## License
-Usage is provided under the ${answers.license} license.
+This application has been created under the ${answers.license} license.
 ## Contributing
 ${answers.contributing}
 ## Tests
@@ -89,6 +88,7 @@ For question about using this application, please contact me at one of the links
 `
 };
 
+//Function that adds a .svg image file for the badge of the license that the user selected in prompt
 function licenseBadge(answers){
     if(answers.license === 'Apache License 2.0'){
         licBadge = '![License](https://img.shields.io/badge/LICENSE-Apache%202.0-brightgreen.svg)'
@@ -113,6 +113,7 @@ function licenseBadge(answers){
     }
 }
 
+//Outputs a README.md file using the answers that were given to the prompts, formatting it using the template laid out in the generateFile function
 promptUser()
 .then(function(answers){
     
