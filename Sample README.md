@@ -1,6 +1,6 @@
 # Sample README
 This is a sample README.md that has been created using the readme-generator
-![License](https://img.shields.io/badge/LICENSE-MIT-red.svg))
+![License](https://img.shields.io/badge/LICENSE-MIT-red.svg)
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
