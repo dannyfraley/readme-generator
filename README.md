@@ -68,6 +68,7 @@ Upon completion of these prompts, the user will receive confirmation of a succes
 A new `README.md` file will then appear in their folder, containing all of the information the user has just entered.
 
 ![READMEscreenshot3](./assets/READMEscreenshot3.png)
+[![READMEvideolink](https://img.youtube.com/vi/ngewSrvkawQ/0.jpg)](https://youtu.be/ngewSrvkawQ)
 
 ## License
 MIT License
