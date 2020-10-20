@@ -70,8 +70,12 @@ A new `README.md` file will then appear in their folder, containing all of the i
 ![READMEscreenshot3](./assets/READMEscreenshot3.png)
 
 
+<hr>
+
 **Click the image below to watch a video of the README Generator in action!**
 [![READMEvideolink](https://img.youtube.com/vi/ngewSrvkawQ/0.jpg)](https://youtu.be/ngewSrvkawQ)
+
+<hr>
 
 ## License
 MIT License
